@@ -1,0 +1,17 @@
+.box {
+  width: 150px;
+  padding: 10px 20px;
+  background-color: brown;
+  margin: 0 auto;
+  position: relative;
+}
+
+.circle {
+  width: 20px;
+  height: 20px;
+  background-color: chartreuse;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
